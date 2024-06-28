@@ -1,8 +1,5 @@
 import pytest
-import sys
-sys.path.append('pytest_ui_test')
-from
-from ...pytest_ui_test.lib.admin_lib import admin
+from lib.admin_lib import admin
 
 
 # 电瓶车充电站、洗车站、存储柜
